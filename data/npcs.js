@@ -11,8 +11,8 @@ const NPC_DEFS = [
     tileY: 6,
     sprite: './images/villager_7.png',
     dialogues: [
-      "Hey — I'm Noyuri. I'm a friend of Jiyun's from Minerva.",
-      "She's out in Hyderabad right now, after semester in Seoul, Berlin, Taipei, and Buenos Aires.",
+      "Hey, I'm Noyuri. I'm a friend of Jiyun's from Minerva.",
+      "She's back to SF after semester in Seoul, Berlin, Taipei, Hyderabad and Buenos Aires.",
       "Besides being great at code, she used to act and direct in musicals."
     ],
     // patrol 2 tiles right (48px) and back
@@ -58,7 +58,7 @@ const NPC_DEFS = [
     tileX: 3,
     tileY: 15,
     sprite: './images/villager_4.png',
-    dialogues: ["Hi, I'm Peter — I used to work with Jiyun at ASML.",
+    dialogues: ["Hi, I'm Peter. I used to work with Jiyun at ASML.",
       "It was her first time in big tech, so she learned quickly working with a big team.",
       "She got her hands on everything: planning, building, testing, and deploying software.",
       "You're lucky to have found her."
